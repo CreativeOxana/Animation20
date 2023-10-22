@@ -47,11 +47,11 @@ span:before {
 .s4:before,
 .s5:before,
 .s6:before {
-  transition-delay: 0.1s;
+  animation-delay: 0.1s;
 }
 
 .s7:before,
 .s8:before,
 .s9:before {
-  transition-delay: 0.2s;
+  animation-delay: 0.2s;
 }
